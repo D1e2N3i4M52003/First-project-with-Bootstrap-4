@@ -1,0 +1,24 @@
+{
+  "name": "first-project-with-bootstrap-4",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D1e2N3i4M52003/First-project-with-Bootstrap-4.git"
+  },
+  "author": "Denitsa Miteva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D1e2N3i4M52003/First-project-with-Bootstrap-4/issues"
+  },
+  "homepage": "https://github.com/D1e2N3i4M52003/First-project-with-Bootstrap-4#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
